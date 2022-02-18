@@ -1,5 +1,5 @@
 [package]
-name = "ue_asset_dumper"
+name = "ue-asset-dumper"
 version = "0.1.0"
 authors = [ "RedBrumbler <redbrumbler.official@gmail.com>" ]
 edition = "2018"
